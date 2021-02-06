@@ -40,6 +40,13 @@ ModelImporter:
     4300008: SM_Veh_Pickup_Wheel_fr
     4300010: SM_Veh_Pickup_Wheel_rr
     4300012: SM_Veh_Pickup_SteeringW
+    6400000: //RootNode
+    6400002: SM_Veh_Pickup_Glass
+    6400004: SM_Veh_Pickup_SteeringW
+    6400006: SM_Veh_Pickup_Wheel_fl
+    6400008: SM_Veh_Pickup_Wheel_fr
+    6400010: SM_Veh_Pickup_Wheel_rl
+    6400012: SM_Veh_Pickup_Wheel_rr
     9500000: //RootNode
   materials:
     importMaterials: 0
@@ -69,7 +76,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 0
     swapUVChannels: 0
     generateSecondaryUV: 0
